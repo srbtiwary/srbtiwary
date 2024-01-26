@@ -72,7 +72,7 @@
   <a href="https://www.instagram.com/srb_tiwari/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href=" https://wa.me/6392636316" target="_blank">
+  <a href=" https://wa.me/916392636316" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
   <a href="https://t.me/srbtiwary" target="_blank">
